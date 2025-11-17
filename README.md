@@ -29,7 +29,8 @@ Always exploring new ideas in **AI** and **Machine Learning**, I love turning co
 #### 🎨 Design & Creative  
 🖌️ **Photoshop** 🎞️ **After Effects** 🧩 **Primiere** 🪄 **Indesign**
 
-### 🦖 Machine Learning
+### 🦖 AI
+🔍 **Machine Learning** 🤖 **LangChain TS | PY **
 
 ---
 
